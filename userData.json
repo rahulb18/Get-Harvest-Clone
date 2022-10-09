@@ -1,0 +1,20 @@
+{
+    "userData" : [
+        {
+            "id": 1,
+            "firstName": "A",
+            "lastName" : "B",
+            "company_name" : "C",
+            "email": "abc@mail.com",
+            "password": "abcd"
+        },
+        {
+            "id": 2,
+            "firstName": "D",
+            "lastName" : "E",
+            "company_name" : "F",
+            "email": "def@mail.com",
+            "password": "defg"
+        }
+    ]
+}
