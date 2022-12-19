@@ -1,5 +1,7 @@
 # **<ins>Clone of _GetHarvest</ins>_**
 
+![App Screenshot](https://biz30.timedoctor.com/images/2022/04/harvest-homepage-2022-1024x522.png)
+
 - _Deployment link_ : https://rahulb18-makes-great-sites.netlify.app/
 - _Github Repo_: https://github.com/rahulb18/Project-Harvest
 - _Original website_ : https://www.getharvest.com/
@@ -39,7 +41,5 @@
 - `Sign in Page`
 - `Time` : contains timesheet and some other tabs to keep track of projects, deadlines, approvals, etc.
 
-## Screenshots
 
-![App Screenshot](https://biz30.timedoctor.com/images/2022/04/harvest-homepage-2022-1024x522.png)
 
