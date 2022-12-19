@@ -39,3 +39,7 @@
 - `Sign in Page`
 - `Time` : contains timesheet and some other tabs to keep track of projects, deadlines, approvals, etc.
 
+## Screenshots
+
+![App Screenshot](https://biz30.timedoctor.com/images/2022/04/harvest-homepage-2022-1024x522.png)
+
